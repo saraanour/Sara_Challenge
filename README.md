@@ -38,5 +38,5 @@ I used Cypress, it's a complete end-to-end automation framework, using Javascrip
 
 Repeate same above steps and run 2nd-test on cypress tool 
 
-This [Link] (https://docs.google.com/document/d/10bGvrftnT_BVY5M3ztxwQ_3mRBy3o6mqBjpWzl_lGNk/edit) for report from the output of test cases
+This This [Link](https://docs.google.com/document/d/10bGvrftnT_BVY5M3ztxwQ_3mRBy3o6mqBjpWzl_lGNk/edit?usp=sharing) for report from the output of test cases
 
